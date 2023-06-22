@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science, Cyber security and Web development.
 - 🌱 I’m currently learning Streamlit, Pandas, NumPy, machine learning and Ethical hacking.
 - 📫 How to reach me mail me at shameerkharel2@gmail.com
-- just trying to code.
+- Just trying to code.
 
 <!---
 sameer-kharel/sameer-kharel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
