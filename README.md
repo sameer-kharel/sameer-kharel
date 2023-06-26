@@ -1,6 +1,6 @@
 - 👋 Hi there! I’m @shameer-kharel from Jhapa, Nepal and currently an undergraduate student studying BCA.
-- 👀 I’m interested in Data Science, Cyber security and Web development.
-- 🌱 I’m currently learning Streamlit, Pandas, NumPy, machine learning and Ethical hacking.
+- 👀 I’m interested in Data Science and Web development.
+- 🌱 I’m currently learning Streamlit, Pandas, NumPy, machine learning, scikit-learn and Matplotlib .
 - 📫 How to reach me mail me at shameerkharel2@gmail.com
 - Just trying to code.
 
