@@ -1,80 +1,70 @@
-- 👋 Hi there! I’m @shameer-kharel from Jhapa, Nepal and currently an undergraduate student studying BCA.
-- 👀 I’m interested in Machine learning and AI.
-- 🌱 I’m currently learning Computer Vision and NLP.
-- 📫 How to reach me, mail me at shameerkharel2@gmail.com
-- Just trying to code
-- 
-sameer-kharel/sameer-kharel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-  
+<p align="center">
+  <img src="https://your-image-url-here" alt="Profile Image" width="200" height="200">
+</p>
 
+# 👋 Hi there, I'm Sameer Kharel!
 
+I'm an undergraduate student studying BCA in Jhapa, Nepal, and I'm passionate about Machine Learning and AI.
 
+## 👀 What I'm Interested In
 
-# Machine Learning Projects Repository
+- Machine Learning
+- Artificial Intelligence
+- Computer Vision
+- Natural Language Processing
 
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Projects-brightgreen)
+## 🌱 What I'm Currently Learning
 
-This repository contains a collection of Machine Learning projects I've worked on. Each project is organized into its own directory, and this README provides an overview of the repository.
+- Computer Vision
+- Natural Language Processing
 
-## Table of Contents
+## 📫 How to Reach Me
 
-- [Project 1: Name of Project](#project-1-name-of-project)
-- [Project 2: Name of Project](#project-2-name-of-project)
-- [Project 3: Name of Project](#project-3-name-of-project)
+Feel free to email me at [shameerkharel2@gmail.com](mailto:shameerkharel2@gmail.com).
 
-## Project 1: Name of Project
+## About Me
 
-![Project 1](/project1/images/project1.png)
+I'm a coding enthusiast who's constantly exploring the world of AI and ML. I love to build interesting projects and learn new things.
 
-**Description**: A brief one-paragraph description of the project.
+---
 
-**Languages and Libraries Used**: Python, scikit-learn, TensorFlow, etc.
+🚀 Check out my skills in various machine and deep learning frameworks:
 
-**Key Features**:
-- Feature 1: Describe a key feature or result from this project.
-- Feature 2: Describe another key feature or result.
+## Skills
 
-**Link to the project folder**: [Project 1 Folder](/project1)
+- **Machine Learning Frameworks**:
+  - Scikit-Learn
+  - TensorFlow
+  - PyTorch
+  - Keras
 
-**Link to the detailed README for this project**: [Project 1 README](/project1/README.md)
+- **Natural Language Processing**:
+  - NLTK
+  - spaCy
+  - Gensim
+  - Transformers
 
-## Project 2: Name of Project
+- **Computer Vision**:
+  - OpenCV
+  - TensorFlow Object Detection API
+  - PyTorch Vision
 
-![Project 2](/project2/images/project2.png)
+- **Deep Learning Libraries**:
+  - NumPy
+  - Pandas
+  - Matplotlib
+  - Seaborn
 
-**Description**: A brief one-paragraph description of the project.
+- **Deployment and Web Frameworks**:
+  - Flask
+  - Streamlit
+  - Django
+  - FastAPI
 
-**Languages and Libraries Used**: Python, PyTorch, pandas, etc.
-
-**Key Features**:
-- Feature 1: Describe a key feature or result from this project.
-- Feature 2: Describe another key feature or result.
-
-**Link to the project folder**: [Project 2 Folder](/project2)
-
-**Link to the detailed README for this project**: [Project 2 README](/project2/README.md)
-
-## Project 3: Name of Project
-
-![Project 3](/project3/images/project3.png)
-
-**Description**: A brief one-paragraph description of the project.
-
-**Languages and Libraries Used**: Python, Keras, scikit-learn, etc.
-
-**Key Features**:
-- Feature 1: Describe a key feature or result from this project.
-- Feature 2: Describe another key feature or result.
-
-**Link to the project folder**: [Project 3 Folder](/project3)
-
-**Link to the detailed README for this project**: [Project 3 README](/project3/README.md)
-
-## Getting Started
-
-If you want to run or contribute to any of these projects, please refer to the respective project's README for detailed instructions on setting up your environment and running the code.
+- **Data Analysis and Visualization**:
+  - Jupyter Notebooks
+  - Tableau
+  - Power BI
 
 ## License
 
@@ -82,9 +72,8 @@ This repository is licensed under the MIT License - see the [LICENSE](LICENSE) f
 
 ## Acknowledgments
 
-- Mention any contributors or resources that helped with these projects.
+- Mention any contributors or resources that helped with your learning journey.
 
 ---
 
-Feel free to explore the individual project folders for more details. If you have any questions or feedback, don't hesitate to reach out.
-
+Feel free to customize the skills section to list the frameworks and libraries you are proficient in. If you have any questions or feedback, don't hesitate to reach out.
