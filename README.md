@@ -12,12 +12,13 @@ I'm an undergraduate student studying BCA in Jhapa, Nepal, and I'm passionate ab
 - Machine Learning
 - Artificial Intelligence
 - Computer Vision
-- Natural Language Processing
+- Quantum computing
 
 ## 🌱 What I'm Currently Learning
 
 - Computer Vision
 - Natural Language Processing
+- Quantum computing
 
 ## 📫 How to Reach Me
 
@@ -38,6 +39,7 @@ I'm a coding enthusiast who's constantly exploring the world of AI and ML. I lov
   - TensorFlow
   - PyTorch
   - Keras
+    
 
 - **Natural Language Processing**:
   - NLTK
@@ -55,26 +57,8 @@ I'm a coding enthusiast who's constantly exploring the world of AI and ML. I lov
   - Pandas
   - Matplotlib
   - Seaborn
+  - Tensorflow
 
 - **Deployment and Web Frameworks**:
   - Flask
   - Streamlit
-  - Django
-  - FastAPI
-
-- **Data Analysis and Visualization**:
-  - Jupyter Notebooks
-  - Tableau
-  - Power BI
-
-## License
-
-This repository is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- Mention any contributors or resources that helped with your learning journey.
-
----
-
-Feel free to customize the skills section to list the frameworks and libraries you are proficient in. If you have any questions or feedback, don't hesitate to reach out.
