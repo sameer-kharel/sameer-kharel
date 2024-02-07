@@ -26,7 +26,7 @@ Feel free to email me at [shameerkharel2@gmail.com](mailto:shameerkharel2@gmail.
 
 ## About Me
 
-I'm a coding enthusiast who's constantly exploring the world of AI and ML. I love to build interesting projects and learn new things.
+I'm a coding enthusiast who's constantly exploring the world of AI and ML. I love to build interesting projects and learn new thing and make the implementation in real world projects.
 
 ---
 
