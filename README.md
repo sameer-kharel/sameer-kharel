@@ -5,7 +5,7 @@
 -->
 # 👋 Hi there, I'm Sameer Kharel!
 
-I'm an undergraduate student studying BCA in Jhapa, Nepal, and I'm passionate about Machine Learning and AI.
+I'm an undergraduate student studying BCA in Jhapa, Nepal, and I'm passionate about ML/AI and Quantum computing.
 
 ## 👀 What I'm Interested In
 
