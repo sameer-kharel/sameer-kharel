@@ -1,7 +1,4 @@
 
-<p align="center">
-  <img src="https://your-image-url-here" alt="Profile Image" width="200" height="200">
-</p>
 
 # 👋 Hi there, I'm Shameer Kharel!
 
